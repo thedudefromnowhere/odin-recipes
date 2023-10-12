@@ -1,2 +1,2 @@
 # odin-recipes
-Getting started with this file initial setup.
+This is a practice run with HTML using The Odin Project.
